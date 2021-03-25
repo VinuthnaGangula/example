@@ -9,6 +9,9 @@
  * 
  */
 
+#ifndef __FUNC_H__
+    #define __FUNC_H__
+
 /**
  * @brief 
  * 
@@ -26,3 +29,5 @@ int sum(int a, int b);
  * @return int 
  */
 int product(int a, int b);
+
+#endif
